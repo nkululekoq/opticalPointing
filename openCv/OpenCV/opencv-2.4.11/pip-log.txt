@@ -1,0 +1,1692 @@
+Downloading/unpacking pyopencv
+  Getting page http://pypi.python.org/simple/pyopencv
+  URLs to search for versions for pyopencv:
+  * http://pypi.python.org/simple/pyopencv
+  Getting page http://code.google.com/p/pyopencv/
+  Analyzing links from page https://pypi.python.org/simple/pyopencv/
+    Skipping link https://pypi.python.org/packages/2.6/p/pyopencv/pyopencv-2.0.wr1.0.1.win32-py2.6.exe#md5=472c7d830019de12ce1f71a978b02a03 (from https://pypi.python.org/simple/pyopencv/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.6/p/pyopencv/pyopencv-2.0.wr1.1.0.win32-py2.6.exe#md5=ff94cd683f6c88bd34c2264590ba7e97 (from https://pypi.python.org/simple/pyopencv/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.6/p/pyopencv/pyopencv-2.1.0.wr1.0.0.win32-py2.6.exe#md5=fec7098b43235e21921a9251bbbec5bf (from https://pypi.python.org/simple/pyopencv/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.6/p/pyopencv/pyopencv-2.1.0.wr1.0.1.win32-py2.6.exe#md5=fc81bb7a48e896c50a2522950011b0ba (from https://pypi.python.org/simple/pyopencv/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.6/p/pyopencv/pyopencv-2.1.0.wr1.0.2.win32-py2.6.exe#md5=97857ed818c51c7737bb9533010ceefc (from https://pypi.python.org/simple/pyopencv/); unknown archive format: .exe
+    Skipping link https://pypi.python.org/packages/2.6/p/pyopencv/pyopencv-2.1.0.wr1.1.0.win32-py2.6.exe#md5=e0d277901af4165e3a9872851e6aa0e6 (from https://pypi.python.org/simple/pyopencv/); unknown archive format: .exe
+    Found link https://pypi.python.org/packages/source/p/pyopencv/pyopencv-2.0.wr1.0.1-demo.tar.gz#md5=cb51f5a855c82471644d25c6eb90c23c (from https://pypi.python.org/simple/pyopencv/), version: 2.0.wr1.0.1-demo
+    Found link https://pypi.python.org/packages/source/p/pyopencv/pyopencv-2.0.wr1.0.1.tar.gz#md5=29080c3892346288cf69f0cc840a656b (from https://pypi.python.org/simple/pyopencv/), version: 2.0.wr1.0.1
+    Found link https://pypi.python.org/packages/source/p/pyopencv/pyopencv-2.0.wr1.1.0.tar.gz#md5=d6176e609ab8e1d09ab997266c5fef1f (from https://pypi.python.org/simple/pyopencv/), version: 2.0.wr1.1.0
+    Found link https://pypi.python.org/packages/source/p/pyopencv/pyopencv-2.1.0.wr1.0.0.tar.gz#md5=e83f7110f08c18de6cb717ea7a746a56 (from https://pypi.python.org/simple/pyopencv/), version: 2.1.0.wr1.0.0
+    Found link https://pypi.python.org/packages/source/p/pyopencv/pyopencv-2.1.0.wr1.0.1.tar.gz#md5=014dead0866c96505f84596c69dc76e9 (from https://pypi.python.org/simple/pyopencv/), version: 2.1.0.wr1.0.1
+    Found link https://pypi.python.org/packages/source/p/pyopencv/pyopencv-2.1.0.wr1.0.2.tar.gz#md5=4ab044f8165896e05218b455145e3420 (from https://pypi.python.org/simple/pyopencv/), version: 2.1.0.wr1.0.2
+    Found link https://pypi.python.org/packages/source/p/pyopencv/pyopencv-2.1.0.wr1.1.0.tar.gz#md5=ef3a341b7679a26dbfa5d68f74408d11 (from https://pypi.python.org/simple/pyopencv/), version: 2.1.0.wr1.1.0
+    Found link https://pypi.python.org/packages/source/p/pyopencv/pyopencv-2.1.0.wr1.2.0.tar.gz#md5=77b1fd385aa641a6c398d2abde7d95c8 (from https://pypi.python.org/simple/pyopencv/), version: 2.1.0.wr1.2.0
+    Skipping link http://code.google.com/p/pyopencv/ (from https://pypi.python.org/simple/pyopencv/); not a file
+  Analyzing links from page http://code.google.com/p/pyopencv/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/pyopencv/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/core.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/ph_detail.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/d_ie.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://code.google.com/p/pyopencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/chrome/chromeframe/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/downloads/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/w/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/issues/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/source/checkout (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://code.google.com/export-to-github/export?project=pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/people/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/feeds (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opensource.org/licenses/BSD-3-Clause (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:Python (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:OpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:boost (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:NumPy (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:PyOpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/u/pmtri80@gmail.com/ (from http://code.google.com/p/pyopencv/); unknown archive format: .com
+    Skipping link http://pyopencv.googlecode.com/files/opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); unknown archive format: .7z
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0-demo
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://mtpham.sharkdolphin.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://groups.google.com/group/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opencv.willowgarage.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://numpy.scipy.org (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Examples (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Pedestrian_Detection (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#K-Means_Clustering (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Development (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.language-binding.net/pyplusplus/pyplusplus.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/pyopencv/#Bugs_and_Commentary (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Acknowledgment (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/ (from http://code.google.com/p/pyopencv/); not a file
+  Analyzing links from page http://code.google.com/p/pyopencv/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/pyopencv/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/core.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/ph_detail.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/d_ie.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://code.google.com/p/pyopencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/chrome/chromeframe/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/downloads/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/w/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/issues/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/source/checkout (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://code.google.com/export-to-github/export?project=pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/people/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/feeds (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opensource.org/licenses/BSD-3-Clause (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:Python (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:OpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:boost (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:NumPy (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:PyOpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/u/pmtri80@gmail.com/ (from http://code.google.com/p/pyopencv/); unknown archive format: .com
+    Skipping link http://pyopencv.googlecode.com/files/opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); unknown archive format: .7z
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0-demo
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://mtpham.sharkdolphin.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://groups.google.com/group/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opencv.willowgarage.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://numpy.scipy.org (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Examples (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Pedestrian_Detection (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#K-Means_Clustering (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Development (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.language-binding.net/pyplusplus/pyplusplus.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/pyopencv/#Bugs_and_Commentary (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Acknowledgment (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/ (from http://code.google.com/p/pyopencv/); not a file
+  Analyzing links from page http://code.google.com/p/pyopencv/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/pyopencv/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/core.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/ph_detail.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/d_ie.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://code.google.com/p/pyopencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/chrome/chromeframe/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/downloads/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/w/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/issues/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/source/checkout (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://code.google.com/export-to-github/export?project=pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/people/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/feeds (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opensource.org/licenses/BSD-3-Clause (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:Python (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:OpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:boost (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:NumPy (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:PyOpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/u/pmtri80@gmail.com/ (from http://code.google.com/p/pyopencv/); unknown archive format: .com
+    Skipping link http://pyopencv.googlecode.com/files/opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); unknown archive format: .7z
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0-demo
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://mtpham.sharkdolphin.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://groups.google.com/group/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opencv.willowgarage.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://numpy.scipy.org (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Examples (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Pedestrian_Detection (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#K-Means_Clustering (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Development (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.language-binding.net/pyplusplus/pyplusplus.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/pyopencv/#Bugs_and_Commentary (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Acknowledgment (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/ (from http://code.google.com/p/pyopencv/); not a file
+  Analyzing links from page http://code.google.com/p/pyopencv/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/pyopencv/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/core.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/ph_detail.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/d_ie.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://code.google.com/p/pyopencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/chrome/chromeframe/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/downloads/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/w/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/issues/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/source/checkout (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://code.google.com/export-to-github/export?project=pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/people/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/feeds (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opensource.org/licenses/BSD-3-Clause (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:Python (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:OpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:boost (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:NumPy (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:PyOpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/u/pmtri80@gmail.com/ (from http://code.google.com/p/pyopencv/); unknown archive format: .com
+    Skipping link http://pyopencv.googlecode.com/files/opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); unknown archive format: .7z
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0-demo
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://mtpham.sharkdolphin.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://groups.google.com/group/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opencv.willowgarage.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://numpy.scipy.org (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Examples (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Pedestrian_Detection (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#K-Means_Clustering (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Development (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.language-binding.net/pyplusplus/pyplusplus.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/pyopencv/#Bugs_and_Commentary (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Acknowledgment (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/ (from http://code.google.com/p/pyopencv/); not a file
+  Analyzing links from page http://code.google.com/p/pyopencv/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/pyopencv/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/core.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/ph_detail.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/d_ie.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://code.google.com/p/pyopencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/chrome/chromeframe/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/downloads/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/w/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/issues/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/source/checkout (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://code.google.com/export-to-github/export?project=pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/people/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/feeds (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opensource.org/licenses/BSD-3-Clause (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:Python (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:OpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:boost (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:NumPy (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:PyOpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/u/pmtri80@gmail.com/ (from http://code.google.com/p/pyopencv/); unknown archive format: .com
+    Skipping link http://pyopencv.googlecode.com/files/opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); unknown archive format: .7z
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0-demo
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://mtpham.sharkdolphin.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://groups.google.com/group/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opencv.willowgarage.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://numpy.scipy.org (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Examples (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Pedestrian_Detection (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#K-Means_Clustering (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Development (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.language-binding.net/pyplusplus/pyplusplus.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/pyopencv/#Bugs_and_Commentary (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Acknowledgment (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/ (from http://code.google.com/p/pyopencv/); not a file
+  Analyzing links from page http://code.google.com/p/pyopencv/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/pyopencv/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/core.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/ph_detail.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/d_ie.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://code.google.com/p/pyopencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/chrome/chromeframe/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/downloads/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/w/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/issues/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/source/checkout (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://code.google.com/export-to-github/export?project=pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/people/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/feeds (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opensource.org/licenses/BSD-3-Clause (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:Python (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:OpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:boost (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:NumPy (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:PyOpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/u/pmtri80@gmail.com/ (from http://code.google.com/p/pyopencv/); unknown archive format: .com
+    Skipping link http://pyopencv.googlecode.com/files/opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); unknown archive format: .7z
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0-demo
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://mtpham.sharkdolphin.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://groups.google.com/group/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opencv.willowgarage.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://numpy.scipy.org (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Examples (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Pedestrian_Detection (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#K-Means_Clustering (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Development (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.language-binding.net/pyplusplus/pyplusplus.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/pyopencv/#Bugs_and_Commentary (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Acknowledgment (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/ (from http://code.google.com/p/pyopencv/); not a file
+  Analyzing links from page http://code.google.com/p/pyopencv/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/pyopencv/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/core.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/ph_detail.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/4119706131923068122/css/d_ie.css (from http://code.google.com/p/pyopencv/); unknown archive format: .css
+    Skipping link http://code.google.com/p/pyopencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fpyopencv%2F (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/chrome/chromeframe/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/downloads/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/w/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/issues/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/source/checkout (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link https://code.google.com/export-to-github/export?project=pyopencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/people/list (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/feeds (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opensource.org/licenses/BSD-3-Clause (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:Python (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:OpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:boost (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:NumPy (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:PyOpenCV (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/u/pmtri80@gmail.com/ (from http://code.google.com/p/pyopencv/); unknown archive format: .com
+    Skipping link http://pyopencv.googlecode.com/files/opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); unknown archive format: .7z
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=opencv210_mingw.7z (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0-demo
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0-demo.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Found link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/), version: 2.1.0.wr1.2.0
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.6.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); unknown archive format: .exe
+    Skipping link http://code.google.com/p/pyopencv/downloads/detail?name=pyopencv-2.1.0.wr1.2.0.win32-py2.7.exe (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://mtpham.sharkdolphin.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://groups.google.com/group/ctypes-opencv (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://opencv.willowgarage.com (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/ctypes-opencv/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://numpy.scipy.org (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Installation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/wiki/Documentation (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Examples (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Pedestrian_Detection (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#K-Means_Clustering (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Development (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://www.language-binding.net/pyplusplus/pyplusplus.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/pyopencv/#Bugs_and_Commentary (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/p/pyopencv/#Acknowledgment (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/pyopencv/); unknown archive format: .html
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/pyopencv/); not a file
+    Skipping link http://code.google.com/projecthosting/ (from http://code.google.com/p/pyopencv/); not a file
+  Using version 2.1.0.wr1.2.0 (newest of versions: 2.1.0.wr1.2.0, 2.1.0.wr1.2.0, 2.1.0.wr1.2.0, 2.1.0.wr1.2.0, 2.1.0.wr1.2.0, 2.1.0.wr1.2.0, 2.1.0.wr1.2.0, 2.1.0.wr1.2.0, 2.1.0.wr1.2.0-demo, 2.1.0.wr1.2.0-demo, 2.1.0.wr1.2.0-demo, 2.1.0.wr1.2.0-demo, 2.1.0.wr1.2.0-demo, 2.1.0.wr1.2.0-demo, 2.1.0.wr1.2.0-demo, 2.1.0.wr1.1.0, 2.1.0.wr1.0.2, 2.1.0.wr1.0.1, 2.1.0.wr1.0.0, 2.0.wr1.1.0, 2.0.wr1.0.1, 2.0.wr1.0.1-demo)
+  Downloading from URL http://pyopencv.googlecode.com/files/pyopencv-2.1.0.wr1.2.0.tar.gz (from http://code.google.com/p/pyopencv/)
+  Running setup.py egg_info for package pyopencv
+    -- The C compiler identification is GNU
+    -- The CXX compiler identification is GNU
+    -- Check for working C compiler: /usr/bin/gcc
+    -- Check for working C compiler: /usr/bin/gcc -- works
+    -- Detecting C compiler ABI info
+    -- Detecting C compiler ABI info - done
+    -- Check for working CXX compiler: /usr/bin/c++
+    -- Check for working CXX compiler: /usr/bin/c++ -- works
+    -- Detecting CXX compiler ABI info
+    -- Detecting CXX compiler ABI info - done
+    -- Found PythonInterp: /usr/bin/python2.6
+    -- Found PythonLibs: /usr/lib/libpython2.6.so
+    -- Detected version of GNU GCC: 44 (404)
+    CMake Error at /usr/share/cmake-2.8/Modules/FindBoost.cmake:894 (message):
+      Unable to find the requested Boost libraries.
+    
+      Unable to find the Boost header files.  Please set BOOST_ROOT to the root
+      directory containing Boost or BOOST_INCLUDEDIR to the directory containing
+      Boost's headers.
+    Call Stack (most recent call first):
+      CMakeLists.txt:183 (find_package)
+    
+    
+    CMake Error at CMakeLists.txt:186 (find_package):
+      Could not find a configuration file for package OpenCV.
+    
+      Set OpenCV_DIR to the directory containing a CMake configuration file for
+      OpenCV.  The file will have one of the following names:
+    
+        OpenCVConfig.cmake
+        opencv-config.cmake
+    
+    
+    
+    -- NumPy include directory detected at: /usr/lib/python2.6/dist-packages/numpy/core/include/numpy
+    CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+    Please set them or make sure they are set and tested correctly in the CMake files:
+    Boost_INCLUDE_DIR (ADVANCED)
+       used as include directory in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+    Boost_PYTHON_LIBRARY (ADVANCED)
+        linked by target "cv_h_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "cv_hpp_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "cvaux_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "cxcore_h_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "cxcore_hpp_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "cxcore_hpp_point_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "cxcore_hpp_vec_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "cxtypes_h_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "highgui_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "ml_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "pyopencv_extras" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+        linked by target "sdopencv_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+    
+    -- Configuring incomplete, errors occurred!
+    Configuring PyOpenCV via CMake...
+    Error: error occurred while running CMake to configure PyOpenCV.
+    You may want to manually configure PyOpenCV by running cmake's tools:
+        mkdir build
+        cd build
+        cmake-gui ..    OR    cmake ..
+        cd ..
+    Complete output from command python setup.py egg_info:
+    -- The C compiler identification is GNU
+
+-- The CXX compiler identification is GNU
+
+-- Check for working C compiler: /usr/bin/gcc
+
+-- Check for working C compiler: /usr/bin/gcc -- works
+
+-- Detecting C compiler ABI info
+
+-- Detecting C compiler ABI info - done
+
+-- Check for working CXX compiler: /usr/bin/c++
+
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+
+-- Detecting CXX compiler ABI info
+
+-- Detecting CXX compiler ABI info - done
+
+-- Found PythonInterp: /usr/bin/python2.6
+
+-- Found PythonLibs: /usr/lib/libpython2.6.so
+
+-- Detected version of GNU GCC: 44 (404)
+
+CMake Error at /usr/share/cmake-2.8/Modules/FindBoost.cmake:894 (message):
+
+  Unable to find the requested Boost libraries.
+
+
+
+  Unable to find the Boost header files.  Please set BOOST_ROOT to the root
+
+  directory containing Boost or BOOST_INCLUDEDIR to the directory containing
+
+  Boost's headers.
+
+Call Stack (most recent call first):
+
+  CMakeLists.txt:183 (find_package)
+
+
+
+
+
+CMake Error at CMakeLists.txt:186 (find_package):
+
+  Could not find a configuration file for package OpenCV.
+
+
+
+  Set OpenCV_DIR to the directory containing a CMake configuration file for
+
+  OpenCV.  The file will have one of the following names:
+
+
+
+    OpenCVConfig.cmake
+
+    opencv-config.cmake
+
+
+
+
+
+
+
+-- NumPy include directory detected at: /usr/lib/python2.6/dist-packages/numpy/core/include/numpy
+
+CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+
+Please set them or make sure they are set and tested correctly in the CMake files:
+
+Boost_INCLUDE_DIR (ADVANCED)
+
+   used as include directory in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+Boost_PYTHON_LIBRARY (ADVANCED)
+
+    linked by target "cv_h_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "cv_hpp_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "cvaux_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "cxcore_h_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "cxcore_hpp_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "cxcore_hpp_point_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "cxcore_hpp_vec_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "cxtypes_h_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "highgui_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "ml_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "pyopencv_extras" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+    linked by target "sdopencv_ext" in directory /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv
+
+
+
+-- Configuring incomplete, errors occurred!
+
+Configuring PyOpenCV via CMake...
+
+Error: error occurred while running CMake to configure PyOpenCV.
+
+You may want to manually configure PyOpenCV by running cmake's tools:
+
+    mkdir build
+
+    cd build
+
+    cmake-gui ..    OR    cmake ..
+
+    cd ..
+
+----------------------------------------
+Command python setup.py egg_info failed with error code 255
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 408, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1775, in install_files
+    req_to_install.run_egg_info()
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1346, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command python setup.py egg_info failed with error code 255
+------------------------------------------------------------
+/usr/bin/pip run on Sun Mar 29 15:56:38 2015
+Downloading/unpacking pyopencv
+  Running setup.py egg_info for package pyopencv
+    running egg_info
+    creating pip-egg-info/pyopencv.egg-info
+    writing requirements to pip-egg-info/pyopencv.egg-info/requires.txt
+    writing pip-egg-info/pyopencv.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/pyopencv.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/pyopencv.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/pyopencv.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/pyopencv.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/pyopencv.egg-info/SOURCES.txt'
+  Source in ./build/pyopencv has version 2.1.0.wr1.2.0, which satisfies requirement pyopencv
+Requirement already satisfied: numpy>=1.2.0 in /usr/lib/python2.6/dist-packages (from pyopencv)
+Installing collected packages: numpy, pyopencv
+  Running setup.py install for pyopencv
+    Running command /usr/bin/python -c "import setuptools; __file__='/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py'; execfile('/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py')" install --single-version-externally-managed --record /tmp/pip-Od6QFl-record/install-record.txt --install-headers /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/lib/include
+    running install
+    running build
+    running build_py
+    creating build/lib.linux-x86_64-2.6
+    creating build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cxcore_hpp.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/ml.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/interfaces.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cv_hpp.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cvtypes_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/common.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cxtypes_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cvaux.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cxcore_hpp_vec.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/config.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/__init__.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/highgui.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cxcore_hpp_point.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cxcore_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cv_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cvver_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/sdopencv.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/cxerror_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+    copying package/pyopencv/info.py -> build/lib.linux-x86_64-2.6/pyopencv
+    running egg_info
+    writing requirements to package/pyopencv.egg-info/requires.txt
+    writing package/pyopencv.egg-info/PKG-INFO
+    writing top-level names to package/pyopencv.egg-info/top_level.txt
+    writing dependency_links to package/pyopencv.egg-info/dependency_links.txt
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'package/pyopencv.egg-info/SOURCES.txt'
+    writing manifest file 'package/pyopencv.egg-info/SOURCES.txt'
+    running build_ext
+    building 'pyopencv.pyopencv_extras' extension
+    creating build/temp.linux-x86_64-2.6
+    creating build/temp.linux-x86_64-2.6/package
+    creating build/temp.linux-x86_64-2.6/package/extras
+    creating build/temp.linux-x86_64-2.6/package/extras/core
+    creating build/temp.linux-x86_64-2.6/package/extras/sdopencv
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.6 -IBoost_INCLUDE_DIR-NOTFOUND -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/core -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv -I/usr/lib/python2.6/dist-packages/numpy/core/include/numpy -I/usr/include/python2.6 -c package/extras/core/sequence.cpp -o build/temp.linux-x86_64-2.6/package/extras/core/sequence.o -O3 -DNDEBUG -O3 -ffast-math -DNDEBUG
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    package/extras/core/sequence.cpp:6:35: error: boost/python/handle.hpp: No such file or directory
+    package/extras/core/sequence.cpp:7:33: error: boost/python/cast.hpp: No such file or directory
+    package/extras/core/sequence.cpp:8:32: error: boost/python/ptr.hpp: No such file or directory
+    package/extras/core/sequence.cpp:9:34: error: boost/python/tuple.hpp: No such file or directory
+    package/extras/core/sequence.cpp:10:48: error: boost/python/detail/raw_pyobject.hpp: No such file or directory
+    package/extras/core/sequence.cpp:11:36: error: boost/python/extract.hpp: No such file or directory
+    package/extras/core/sequence.cpp:12:54: error: boost/python/reference_existing_object.hpp: No such file or directory
+    package/extras/core/sequence.cpp:13:48: error: boost/python/object/life_support.hpp: No such file or directory
+    In file included from package/extras/core/sequence.cpp:15:
+    package/extras/core/sequence.hpp:8:29: error: boost/python.hpp: No such file or directory
+    package/extras/core/sequence.hpp:9:36: error: boost/python/object.hpp: No such file or directory
+    package/extras/core/sequence.hpp:10:43: error: boost/python/detail/prefix.hpp: No such file or directory
+    package/extras/core/sequence.hpp:13:33: error: boost/python/str.hpp: No such file or directory
+    package/extras/core/sequence.hpp:14:51: error: boost/preprocessor/iteration/local.hpp: No such file or directory
+    package/extras/core/sequence.hpp:15:39: error: boost/preprocessor/cat.hpp: No such file or directory
+    package/extras/core/sequence.hpp:16:51: error: boost/preprocessor/repetition/enum.hpp: No such file or directory
+    package/extras/core/sequence.hpp:17:58: error: boost/preprocessor/repetition/enum_params.hpp: No such file or directory
+    package/extras/core/sequence.hpp:18:65: error: boost/preprocessor/repetition/enum_binary_params.hpp: No such file or directory
+    In file included from package/extras/core/ndarray.hpp:18,
+                     from package/extras/core/sequence.cpp:16:
+    package/extras/core/opencv_headers.hpp:7:20: error: cxcore.h: No such file or directory
+    In file included from package/extras/core/sequence.cpp:15:
+    package/extras/core/sequence.hpp:24: error: ‘boost’ has not been declared
+    package/extras/core/sequence.hpp:24: error: ‘python’ is not a namespace-name
+    package/extras/core/sequence.hpp:24: error: expected namespace-name before ‘;’ token
+    package/extras/core/sequence.hpp:29: error: ‘object’ does not name a type
+    package/extras/core/sequence.hpp:33: error: ‘object’ does not name a type
+    package/extras/core/sequence.hpp:43: error: ‘Py_intptr_t’ does not name a type
+    package/extras/core/sequence.hpp:44: error: ‘Py_intptr_t’ does not name a type
+    package/extras/core/sequence.hpp:45: error: ‘Py_intptr_t’ was not declared in this scope
+    package/extras/core/sequence.hpp:45: error: template argument 1 is invalid
+    package/extras/core/sequence.hpp:45: error: template argument 2 is invalid
+    package/extras/core/sequence.hpp:46: error: ‘Py_intptr_t’ was not declared in this scope
+    package/extras/core/sequence.hpp:46: error: template argument 1 is invalid
+    package/extras/core/sequence.hpp:46: error: template argument 2 is invalid
+    package/extras/core/sequence.hpp:51: error: ‘sdcpp::check’ declared as an ‘inline’ variable
+    package/extras/core/sequence.hpp:51: error: template declaration of ‘bool sdcpp::check’
+    package/extras/core/sequence.hpp:51: error: ‘object’ was not declared in this scope
+    package/extras/core/sequence.hpp:52: error: expected initializer before ‘const’
+    package/extras/core/sequence.hpp:57: error: expected ‘)’ before ‘const’
+    package/extras/core/sequence.hpp:60: error: ISO C++ forbids declaration of ‘object’ with no type
+    package/extras/core/sequence.hpp:60: error: expected ‘;’ before ‘const’
+    package/extras/core/sequence.hpp:61: error: expected ‘;’ before ‘sdobject’
+    package/extras/core/sequence.hpp:70: error: ‘object’ does not name a type
+    package/extras/core/sequence.hpp: In destructor ‘sdcpp::sdobject::~sdobject()’:
+    package/extras/core/sequence.hpp:58: error: ‘obj’ was not declared in this scope
+    package/extras/core/sequence.hpp:58: error: ‘decref’ was not declared in this scope
+    package/extras/core/sequence.hpp: In member function ‘sdcpp::sdobject& sdcpp::sdobject::operator=(const sdcpp::sdobject&)’:
+    package/extras/core/sequence.hpp:63: error: ‘const class sdcpp::sdobject’ has no member named ‘obj’
+    package/extras/core/sequence.hpp:63: error: ‘incref’ was not declared in this scope
+    package/extras/core/sequence.hpp:64: error: ‘obj’ was not declared in this scope
+    package/extras/core/sequence.hpp:64: error: ‘decref’ was not declared in this scope
+    package/extras/core/sequence.hpp:65: error: ‘const class sdcpp::sdobject’ has no member named ‘obj’
+    package/extras/core/sequence.hpp: At global scope:
+    package/extras/core/sequence.hpp:76: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    package/extras/core/sequence.hpp:76: error: expected ‘;’ before ‘*’ token
+    package/extras/core/sequence.hpp:77: error: expected ‘;’ before ‘}’ token
+    package/extras/core/sequence.hpp: In function ‘void sdcpp::register_sdobject()’:
+    package/extras/core/sequence.hpp:84: error: local class ‘struct sdcpp::register_sdobject()::from_python’ shall not have static data member ‘void* sdcpp::register_sdobject()::from_python::convertible’
+    package/extras/core/sequence.hpp:84: error: expected ‘;’ before ‘(’ token
+    package/extras/core/sequence.hpp:89: error: expected ‘;’ before ‘static’
+    package/extras/core/sequence.hpp:89: error: ‘PyObject’ has not been declared
+    package/extras/core/sequence.hpp:89: error: ‘converter’ has not been declared
+    package/extras/core/sequence.hpp:89: error: expected ‘,’ or ‘...’ before ‘*’ token
+    package/extras/core/sequence.hpp:98: error: ISO C++ forbids declaration of ‘PyTypeObject’ with no type
+    package/extras/core/sequence.hpp:98: error: local class ‘struct sdcpp::register_sdobject()::from_python’ shall not have static data member ‘int sdcpp::register_sdobject()::from_python::PyTypeObject’
+    package/extras/core/sequence.hpp:98: error: expected ‘;’ before ‘const’
+    package/extras/core/sequence.hpp:102: error: expected ‘;’ before ‘}’ token
+    package/extras/core/sequence.hpp: In static member function ‘static void sdcpp::register_sdobject()::from_python::construct(int*, int)’:
+    package/extras/core/sequence.hpp:91: error: ‘converter’ has not been declared
+    package/extras/core/sequence.hpp:91: error: expected initializer before ‘<’ token
+    package/extras/core/sequence.hpp:92: error: ‘storage_t’ was not declared in this scope
+    package/extras/core/sequence.hpp:92: error: ‘the_storage’ was not declared in this scope
+    package/extras/core/sequence.hpp:92: error: expected type-specifier before ‘storage_t’
+    package/extras/core/sequence.hpp:92: error: expected ‘>’ before ‘storage_t’
+    package/extras/core/sequence.hpp:92: error: expected ‘(’ before ‘storage_t’
+    package/extras/core/sequence.hpp:92: error: expected primary-expression before ‘>’ token
+    package/extras/core/sequence.hpp:92: error: ‘data’ was not declared in this scope
+    package/extras/core/sequence.hpp:92: error: expected ‘)’ before ‘;’ token
+    package/extras/core/sequence.hpp:94: error: there are no arguments to ‘get_borrowed_object’ that depend on a template parameter, so a declaration of ‘get_borrowed_object’ must be available
+    package/extras/core/sequence.hpp:94: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+    package/extras/core/sequence.hpp: In function ‘void sdcpp::register_sdobject()’:
+    package/extras/core/sequence.hpp:104: error: ‘to_python_converter’ was not declared in this scope
+    package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘,’ token
+    package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘>’ token
+    package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘)’ token
+    package/extras/core/sequence.hpp:106: error: ‘converter’ has not been declared
+    package/extras/core/sequence.hpp:107: error: ‘type_id’ was not declared in this scope
+    package/extras/core/sequence.hpp:107: error: expected primary-expression before ‘>’ token
+    package/extras/core/sequence.hpp:107: error: expected primary-expression before ‘)’ token
+    package/extras/core/sequence.hpp: At global scope:
+    package/extras/core/sequence.hpp:113: error: expected ‘)’ before ‘const’
+    package/extras/core/sequence.hpp:120: error: ‘object’ has not been declared
+    package/extras/core/sequence.hpp:124: error: expected initializer before ‘<’ token
+    package/extras/core/sequence.hpp:125: error: expected initializer before ‘const’
+    In file included from package/extras/core/opencv_headers.hpp:9,
+                     from package/extras/core/ndarray.hpp:18,
+                     from package/extras/core/sequence.cpp:16:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:58: error: ‘Mat’ has not been declared
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:58: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat()’:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:59: error: only constructors take base initializers
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:59: warning: no return statement in function returning non-void
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:61: error: ‘Mat’ is not a class or namespace
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:61: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat(int, int, int)’:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:62: error: only constructors take base initializers
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:65: error: ‘create’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:66: warning: no return statement in function returning non-void
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ‘Mat’ is not a class or namespace
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ISO C++ forbids declaration of ‘Scalar’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: expected ‘,’ or ‘...’ before ‘&’ token
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat(int, int, int, int)’:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:69: error: only constructors take base initializers
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:74: error: ‘create’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:75: error: invalid use of ‘this’ in non-member function
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:75: error: ‘_s’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:77: warning: no return statement in function returning non-void
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘Mat’ is not a class or namespace
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘cv::Mat’ declared as an ‘inline’ variable
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘int cv::Mat’ redeclared as different kind of symbol
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: previous declaration of ‘int cv::Mat(int, int, int, int)’
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘Size’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: expected primary-expression before ‘int’
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘Mat’ is not a class or namespace
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘cv::Mat’ declared as an ‘inline’ variable
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘int cv::Mat’ redeclared as different kind of symbol
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: previous declaration of ‘int cv::Mat(int, int, int, int)’
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘Size’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: expected primary-expression before ‘int’
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: expected primary-expression before ‘const’
+    package/extras/core/sequence.cpp:40: error: expected ‘}’ at end of input
+    error: command 'gcc' failed with exit status 1
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py'; execfile('/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py')" install --single-version-externally-managed --record /tmp/pip-Od6QFl-record/install-record.txt --install-headers /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build/lib.linux-x86_64-2.6
+
+creating build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cxcore_hpp.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/ml.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/interfaces.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cv_hpp.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cvtypes_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/common.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cxtypes_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cvaux.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cxcore_hpp_vec.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/config.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/__init__.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/highgui.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cxcore_hpp_point.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cxcore_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cv_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cvver_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/sdopencv.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/cxerror_h.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+copying package/pyopencv/info.py -> build/lib.linux-x86_64-2.6/pyopencv
+
+running egg_info
+
+writing requirements to package/pyopencv.egg-info/requires.txt
+
+writing package/pyopencv.egg-info/PKG-INFO
+
+writing top-level names to package/pyopencv.egg-info/top_level.txt
+
+writing dependency_links to package/pyopencv.egg-info/dependency_links.txt
+
+warning: manifest_maker: standard file '-c' not found
+
+reading manifest file 'package/pyopencv.egg-info/SOURCES.txt'
+
+writing manifest file 'package/pyopencv.egg-info/SOURCES.txt'
+
+running build_ext
+
+building 'pyopencv.pyopencv_extras' extension
+
+creating build/temp.linux-x86_64-2.6
+
+creating build/temp.linux-x86_64-2.6/package
+
+creating build/temp.linux-x86_64-2.6/package/extras
+
+creating build/temp.linux-x86_64-2.6/package/extras/core
+
+creating build/temp.linux-x86_64-2.6/package/extras/sdopencv
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.6 -IBoost_INCLUDE_DIR-NOTFOUND -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/core -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv -I/usr/lib/python2.6/dist-packages/numpy/core/include/numpy -I/usr/include/python2.6 -c package/extras/core/sequence.cpp -o build/temp.linux-x86_64-2.6/package/extras/core/sequence.o -O3 -DNDEBUG -O3 -ffast-math -DNDEBUG
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+package/extras/core/sequence.cpp:6:35: error: boost/python/handle.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:7:33: error: boost/python/cast.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:8:32: error: boost/python/ptr.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:9:34: error: boost/python/tuple.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:10:48: error: boost/python/detail/raw_pyobject.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:11:36: error: boost/python/extract.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:12:54: error: boost/python/reference_existing_object.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:13:48: error: boost/python/object/life_support.hpp: No such file or directory
+
+In file included from package/extras/core/sequence.cpp:15:
+
+package/extras/core/sequence.hpp:8:29: error: boost/python.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:9:36: error: boost/python/object.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:10:43: error: boost/python/detail/prefix.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:13:33: error: boost/python/str.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:14:51: error: boost/preprocessor/iteration/local.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:15:39: error: boost/preprocessor/cat.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:16:51: error: boost/preprocessor/repetition/enum.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:17:58: error: boost/preprocessor/repetition/enum_params.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:18:65: error: boost/preprocessor/repetition/enum_binary_params.hpp: No such file or directory
+
+In file included from package/extras/core/ndarray.hpp:18,
+
+                 from package/extras/core/sequence.cpp:16:
+
+package/extras/core/opencv_headers.hpp:7:20: error: cxcore.h: No such file or directory
+
+In file included from package/extras/core/sequence.cpp:15:
+
+package/extras/core/sequence.hpp:24: error: ‘boost’ has not been declared
+
+package/extras/core/sequence.hpp:24: error: ‘python’ is not a namespace-name
+
+package/extras/core/sequence.hpp:24: error: expected namespace-name before ‘;’ token
+
+package/extras/core/sequence.hpp:29: error: ‘object’ does not name a type
+
+package/extras/core/sequence.hpp:33: error: ‘object’ does not name a type
+
+package/extras/core/sequence.hpp:43: error: ‘Py_intptr_t’ does not name a type
+
+package/extras/core/sequence.hpp:44: error: ‘Py_intptr_t’ does not name a type
+
+package/extras/core/sequence.hpp:45: error: ‘Py_intptr_t’ was not declared in this scope
+
+package/extras/core/sequence.hpp:45: error: template argument 1 is invalid
+
+package/extras/core/sequence.hpp:45: error: template argument 2 is invalid
+
+package/extras/core/sequence.hpp:46: error: ‘Py_intptr_t’ was not declared in this scope
+
+package/extras/core/sequence.hpp:46: error: template argument 1 is invalid
+
+package/extras/core/sequence.hpp:46: error: template argument 2 is invalid
+
+package/extras/core/sequence.hpp:51: error: ‘sdcpp::check’ declared as an ‘inline’ variable
+
+package/extras/core/sequence.hpp:51: error: template declaration of ‘bool sdcpp::check’
+
+package/extras/core/sequence.hpp:51: error: ‘object’ was not declared in this scope
+
+package/extras/core/sequence.hpp:52: error: expected initializer before ‘const’
+
+package/extras/core/sequence.hpp:57: error: expected ‘)’ before ‘const’
+
+package/extras/core/sequence.hpp:60: error: ISO C++ forbids declaration of ‘object’ with no type
+
+package/extras/core/sequence.hpp:60: error: expected ‘;’ before ‘const’
+
+package/extras/core/sequence.hpp:61: error: expected ‘;’ before ‘sdobject’
+
+package/extras/core/sequence.hpp:70: error: ‘object’ does not name a type
+
+package/extras/core/sequence.hpp: In destructor ‘sdcpp::sdobject::~sdobject()’:
+
+package/extras/core/sequence.hpp:58: error: ‘obj’ was not declared in this scope
+
+package/extras/core/sequence.hpp:58: error: ‘decref’ was not declared in this scope
+
+package/extras/core/sequence.hpp: In member function ‘sdcpp::sdobject& sdcpp::sdobject::operator=(const sdcpp::sdobject&)’:
+
+package/extras/core/sequence.hpp:63: error: ‘const class sdcpp::sdobject’ has no member named ‘obj’
+
+package/extras/core/sequence.hpp:63: error: ‘incref’ was not declared in this scope
+
+package/extras/core/sequence.hpp:64: error: ‘obj’ was not declared in this scope
+
+package/extras/core/sequence.hpp:64: error: ‘decref’ was not declared in this scope
+
+package/extras/core/sequence.hpp:65: error: ‘const class sdcpp::sdobject’ has no member named ‘obj’
+
+package/extras/core/sequence.hpp: At global scope:
+
+package/extras/core/sequence.hpp:76: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+package/extras/core/sequence.hpp:76: error: expected ‘;’ before ‘*’ token
+
+package/extras/core/sequence.hpp:77: error: expected ‘;’ before ‘}’ token
+
+package/extras/core/sequence.hpp: In function ‘void sdcpp::register_sdobject()’:
+
+package/extras/core/sequence.hpp:84: error: local class ‘struct sdcpp::register_sdobject()::from_python’ shall not have static data member ‘void* sdcpp::register_sdobject()::from_python::convertible’
+
+package/extras/core/sequence.hpp:84: error: expected ‘;’ before ‘(’ token
+
+package/extras/core/sequence.hpp:89: error: expected ‘;’ before ‘static’
+
+package/extras/core/sequence.hpp:89: error: ‘PyObject’ has not been declared
+
+package/extras/core/sequence.hpp:89: error: ‘converter’ has not been declared
+
+package/extras/core/sequence.hpp:89: error: expected ‘,’ or ‘...’ before ‘*’ token
+
+package/extras/core/sequence.hpp:98: error: ISO C++ forbids declaration of ‘PyTypeObject’ with no type
+
+package/extras/core/sequence.hpp:98: error: local class ‘struct sdcpp::register_sdobject()::from_python’ shall not have static data member ‘int sdcpp::register_sdobject()::from_python::PyTypeObject’
+
+package/extras/core/sequence.hpp:98: error: expected ‘;’ before ‘const’
+
+package/extras/core/sequence.hpp:102: error: expected ‘;’ before ‘}’ token
+
+package/extras/core/sequence.hpp: In static member function ‘static void sdcpp::register_sdobject()::from_python::construct(int*, int)’:
+
+package/extras/core/sequence.hpp:91: error: ‘converter’ has not been declared
+
+package/extras/core/sequence.hpp:91: error: expected initializer before ‘<’ token
+
+package/extras/core/sequence.hpp:92: error: ‘storage_t’ was not declared in this scope
+
+package/extras/core/sequence.hpp:92: error: ‘the_storage’ was not declared in this scope
+
+package/extras/core/sequence.hpp:92: error: expected type-specifier before ‘storage_t’
+
+package/extras/core/sequence.hpp:92: error: expected ‘>’ before ‘storage_t’
+
+package/extras/core/sequence.hpp:92: error: expected ‘(’ before ‘storage_t’
+
+package/extras/core/sequence.hpp:92: error: expected primary-expression before ‘>’ token
+
+package/extras/core/sequence.hpp:92: error: ‘data’ was not declared in this scope
+
+package/extras/core/sequence.hpp:92: error: expected ‘)’ before ‘;’ token
+
+package/extras/core/sequence.hpp:94: error: there are no arguments to ‘get_borrowed_object’ that depend on a template parameter, so a declaration of ‘get_borrowed_object’ must be available
+
+package/extras/core/sequence.hpp:94: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+
+package/extras/core/sequence.hpp: In function ‘void sdcpp::register_sdobject()’:
+
+package/extras/core/sequence.hpp:104: error: ‘to_python_converter’ was not declared in this scope
+
+package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘,’ token
+
+package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘>’ token
+
+package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘)’ token
+
+package/extras/core/sequence.hpp:106: error: ‘converter’ has not been declared
+
+package/extras/core/sequence.hpp:107: error: ‘type_id’ was not declared in this scope
+
+package/extras/core/sequence.hpp:107: error: expected primary-expression before ‘>’ token
+
+package/extras/core/sequence.hpp:107: error: expected primary-expression before ‘)’ token
+
+package/extras/core/sequence.hpp: At global scope:
+
+package/extras/core/sequence.hpp:113: error: expected ‘)’ before ‘const’
+
+package/extras/core/sequence.hpp:120: error: ‘object’ has not been declared
+
+package/extras/core/sequence.hpp:124: error: expected initializer before ‘<’ token
+
+package/extras/core/sequence.hpp:125: error: expected initializer before ‘const’
+
+In file included from package/extras/core/opencv_headers.hpp:9,
+
+                 from package/extras/core/ndarray.hpp:18,
+
+                 from package/extras/core/sequence.cpp:16:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:58: error: ‘Mat’ has not been declared
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:58: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat()’:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:59: error: only constructors take base initializers
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:59: warning: no return statement in function returning non-void
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:61: error: ‘Mat’ is not a class or namespace
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:61: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat(int, int, int)’:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:62: error: only constructors take base initializers
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:65: error: ‘create’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:66: warning: no return statement in function returning non-void
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ‘Mat’ is not a class or namespace
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ISO C++ forbids declaration of ‘Scalar’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: expected ‘,’ or ‘...’ before ‘&’ token
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat(int, int, int, int)’:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:69: error: only constructors take base initializers
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:74: error: ‘create’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:75: error: invalid use of ‘this’ in non-member function
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:75: error: ‘_s’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:77: warning: no return statement in function returning non-void
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘Mat’ is not a class or namespace
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘cv::Mat’ declared as an ‘inline’ variable
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘int cv::Mat’ redeclared as different kind of symbol
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: previous declaration of ‘int cv::Mat(int, int, int, int)’
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘Size’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: expected primary-expression before ‘int’
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘Mat’ is not a class or namespace
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘cv::Mat’ declared as an ‘inline’ variable
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘int cv::Mat’ redeclared as different kind of symbol
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: previous declaration of ‘int cv::Mat(int, int, int, int)’
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘Size’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: expected primary-expression before ‘int’
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: expected primary-expression before ‘const’
+
+package/extras/core/sequence.cpp:40: error: expected ‘}’ at end of input
+
+error: command 'gcc' failed with exit status 1
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py'; execfile('/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py')" install --single-version-externally-managed --record /tmp/pip-Od6QFl-record/install-record.txt --install-headers /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py'; execfile('/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py')" install --single-version-externally-managed --record /tmp/pip-Od6QFl-record/install-record.txt --install-headers /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/lib/include failed with error code 1
+------------------------------------------------------------
+/usr/bin/pip run on Sun Mar 29 15:57:04 2015
+Downloading/unpacking pyopencv
+  Running setup.py egg_info for package pyopencv
+    running egg_info
+    writing requirements to pip-egg-info/pyopencv.egg-info/requires.txt
+    writing pip-egg-info/pyopencv.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/pyopencv.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/pyopencv.egg-info/dependency_links.txt
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/pyopencv.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/pyopencv.egg-info/SOURCES.txt'
+  Source in ./build/pyopencv has version 2.1.0.wr1.2.0, which satisfies requirement pyopencv
+Requirement already satisfied: numpy>=1.2.0 in /usr/lib/python2.6/dist-packages (from pyopencv)
+Installing collected packages: numpy, pyopencv
+  Running setup.py install for pyopencv
+    Running command /usr/bin/python -c "import setuptools; __file__='/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py'; execfile('/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py')" install --single-version-externally-managed --record /tmp/pip-Iik5QM-record/install-record.txt --install-headers /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/lib/include
+    running install
+    running build
+    running build_py
+    running egg_info
+    writing requirements to package/pyopencv.egg-info/requires.txt
+    writing package/pyopencv.egg-info/PKG-INFO
+    writing top-level names to package/pyopencv.egg-info/top_level.txt
+    writing dependency_links to package/pyopencv.egg-info/dependency_links.txt
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'package/pyopencv.egg-info/SOURCES.txt'
+    writing manifest file 'package/pyopencv.egg-info/SOURCES.txt'
+    running build_ext
+    building 'pyopencv.pyopencv_extras' extension
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.6 -IBoost_INCLUDE_DIR-NOTFOUND -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/core -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv -I/usr/lib/python2.6/dist-packages/numpy/core/include/numpy -I/usr/include/python2.6 -c package/extras/core/sequence.cpp -o build/temp.linux-x86_64-2.6/package/extras/core/sequence.o -O3 -DNDEBUG -O3 -ffast-math -DNDEBUG
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    package/extras/core/sequence.cpp:6:35: error: boost/python/handle.hpp: No such file or directory
+    package/extras/core/sequence.cpp:7:33: error: boost/python/cast.hpp: No such file or directory
+    package/extras/core/sequence.cpp:8:32: error: boost/python/ptr.hpp: No such file or directory
+    package/extras/core/sequence.cpp:9:34: error: boost/python/tuple.hpp: No such file or directory
+    package/extras/core/sequence.cpp:10:48: error: boost/python/detail/raw_pyobject.hpp: No such file or directory
+    package/extras/core/sequence.cpp:11:36: error: boost/python/extract.hpp: No such file or directory
+    package/extras/core/sequence.cpp:12:54: error: boost/python/reference_existing_object.hpp: No such file or directory
+    package/extras/core/sequence.cpp:13:48: error: boost/python/object/life_support.hpp: No such file or directory
+    In file included from package/extras/core/sequence.cpp:15:
+    package/extras/core/sequence.hpp:8:29: error: boost/python.hpp: No such file or directory
+    package/extras/core/sequence.hpp:9:36: error: boost/python/object.hpp: No such file or directory
+    package/extras/core/sequence.hpp:10:43: error: boost/python/detail/prefix.hpp: No such file or directory
+    package/extras/core/sequence.hpp:13:33: error: boost/python/str.hpp: No such file or directory
+    package/extras/core/sequence.hpp:14:51: error: boost/preprocessor/iteration/local.hpp: No such file or directory
+    package/extras/core/sequence.hpp:15:39: error: boost/preprocessor/cat.hpp: No such file or directory
+    package/extras/core/sequence.hpp:16:51: error: boost/preprocessor/repetition/enum.hpp: No such file or directory
+    package/extras/core/sequence.hpp:17:58: error: boost/preprocessor/repetition/enum_params.hpp: No such file or directory
+    package/extras/core/sequence.hpp:18:65: error: boost/preprocessor/repetition/enum_binary_params.hpp: No such file or directory
+    In file included from package/extras/core/ndarray.hpp:18,
+                     from package/extras/core/sequence.cpp:16:
+    package/extras/core/opencv_headers.hpp:7:20: error: cxcore.h: No such file or directory
+    In file included from package/extras/core/sequence.cpp:15:
+    package/extras/core/sequence.hpp:24: error: ‘boost’ has not been declared
+    package/extras/core/sequence.hpp:24: error: ‘python’ is not a namespace-name
+    package/extras/core/sequence.hpp:24: error: expected namespace-name before ‘;’ token
+    package/extras/core/sequence.hpp:29: error: ‘object’ does not name a type
+    package/extras/core/sequence.hpp:33: error: ‘object’ does not name a type
+    package/extras/core/sequence.hpp:43: error: ‘Py_intptr_t’ does not name a type
+    package/extras/core/sequence.hpp:44: error: ‘Py_intptr_t’ does not name a type
+    package/extras/core/sequence.hpp:45: error: ‘Py_intptr_t’ was not declared in this scope
+    package/extras/core/sequence.hpp:45: error: template argument 1 is invalid
+    package/extras/core/sequence.hpp:45: error: template argument 2 is invalid
+    package/extras/core/sequence.hpp:46: error: ‘Py_intptr_t’ was not declared in this scope
+    package/extras/core/sequence.hpp:46: error: template argument 1 is invalid
+    package/extras/core/sequence.hpp:46: error: template argument 2 is invalid
+    package/extras/core/sequence.hpp:51: error: ‘sdcpp::check’ declared as an ‘inline’ variable
+    package/extras/core/sequence.hpp:51: error: template declaration of ‘bool sdcpp::check’
+    package/extras/core/sequence.hpp:51: error: ‘object’ was not declared in this scope
+    package/extras/core/sequence.hpp:52: error: expected initializer before ‘const’
+    package/extras/core/sequence.hpp:57: error: expected ‘)’ before ‘const’
+    package/extras/core/sequence.hpp:60: error: ISO C++ forbids declaration of ‘object’ with no type
+    package/extras/core/sequence.hpp:60: error: expected ‘;’ before ‘const’
+    package/extras/core/sequence.hpp:61: error: expected ‘;’ before ‘sdobject’
+    package/extras/core/sequence.hpp:70: error: ‘object’ does not name a type
+    package/extras/core/sequence.hpp: In destructor ‘sdcpp::sdobject::~sdobject()’:
+    package/extras/core/sequence.hpp:58: error: ‘obj’ was not declared in this scope
+    package/extras/core/sequence.hpp:58: error: ‘decref’ was not declared in this scope
+    package/extras/core/sequence.hpp: In member function ‘sdcpp::sdobject& sdcpp::sdobject::operator=(const sdcpp::sdobject&)’:
+    package/extras/core/sequence.hpp:63: error: ‘const class sdcpp::sdobject’ has no member named ‘obj’
+    package/extras/core/sequence.hpp:63: error: ‘incref’ was not declared in this scope
+    package/extras/core/sequence.hpp:64: error: ‘obj’ was not declared in this scope
+    package/extras/core/sequence.hpp:64: error: ‘decref’ was not declared in this scope
+    package/extras/core/sequence.hpp:65: error: ‘const class sdcpp::sdobject’ has no member named ‘obj’
+    package/extras/core/sequence.hpp: At global scope:
+    package/extras/core/sequence.hpp:76: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    package/extras/core/sequence.hpp:76: error: expected ‘;’ before ‘*’ token
+    package/extras/core/sequence.hpp:77: error: expected ‘;’ before ‘}’ token
+    package/extras/core/sequence.hpp: In function ‘void sdcpp::register_sdobject()’:
+    package/extras/core/sequence.hpp:84: error: local class ‘struct sdcpp::register_sdobject()::from_python’ shall not have static data member ‘void* sdcpp::register_sdobject()::from_python::convertible’
+    package/extras/core/sequence.hpp:84: error: expected ‘;’ before ‘(’ token
+    package/extras/core/sequence.hpp:89: error: expected ‘;’ before ‘static’
+    package/extras/core/sequence.hpp:89: error: ‘PyObject’ has not been declared
+    package/extras/core/sequence.hpp:89: error: ‘converter’ has not been declared
+    package/extras/core/sequence.hpp:89: error: expected ‘,’ or ‘...’ before ‘*’ token
+    package/extras/core/sequence.hpp:98: error: ISO C++ forbids declaration of ‘PyTypeObject’ with no type
+    package/extras/core/sequence.hpp:98: error: local class ‘struct sdcpp::register_sdobject()::from_python’ shall not have static data member ‘int sdcpp::register_sdobject()::from_python::PyTypeObject’
+    package/extras/core/sequence.hpp:98: error: expected ‘;’ before ‘const’
+    package/extras/core/sequence.hpp:102: error: expected ‘;’ before ‘}’ token
+    package/extras/core/sequence.hpp: In static member function ‘static void sdcpp::register_sdobject()::from_python::construct(int*, int)’:
+    package/extras/core/sequence.hpp:91: error: ‘converter’ has not been declared
+    package/extras/core/sequence.hpp:91: error: expected initializer before ‘<’ token
+    package/extras/core/sequence.hpp:92: error: ‘storage_t’ was not declared in this scope
+    package/extras/core/sequence.hpp:92: error: ‘the_storage’ was not declared in this scope
+    package/extras/core/sequence.hpp:92: error: expected type-specifier before ‘storage_t’
+    package/extras/core/sequence.hpp:92: error: expected ‘>’ before ‘storage_t’
+    package/extras/core/sequence.hpp:92: error: expected ‘(’ before ‘storage_t’
+    package/extras/core/sequence.hpp:92: error: expected primary-expression before ‘>’ token
+    package/extras/core/sequence.hpp:92: error: ‘data’ was not declared in this scope
+    package/extras/core/sequence.hpp:92: error: expected ‘)’ before ‘;’ token
+    package/extras/core/sequence.hpp:94: error: there are no arguments to ‘get_borrowed_object’ that depend on a template parameter, so a declaration of ‘get_borrowed_object’ must be available
+    package/extras/core/sequence.hpp:94: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+    package/extras/core/sequence.hpp: In function ‘void sdcpp::register_sdobject()’:
+    package/extras/core/sequence.hpp:104: error: ‘to_python_converter’ was not declared in this scope
+    package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘,’ token
+    package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘>’ token
+    package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘)’ token
+    package/extras/core/sequence.hpp:106: error: ‘converter’ has not been declared
+    package/extras/core/sequence.hpp:107: error: ‘type_id’ was not declared in this scope
+    package/extras/core/sequence.hpp:107: error: expected primary-expression before ‘>’ token
+    package/extras/core/sequence.hpp:107: error: expected primary-expression before ‘)’ token
+    package/extras/core/sequence.hpp: At global scope:
+    package/extras/core/sequence.hpp:113: error: expected ‘)’ before ‘const’
+    package/extras/core/sequence.hpp:120: error: ‘object’ has not been declared
+    package/extras/core/sequence.hpp:124: error: expected initializer before ‘<’ token
+    package/extras/core/sequence.hpp:125: error: expected initializer before ‘const’
+    In file included from package/extras/core/opencv_headers.hpp:9,
+                     from package/extras/core/ndarray.hpp:18,
+                     from package/extras/core/sequence.cpp:16:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:58: error: ‘Mat’ has not been declared
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:58: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat()’:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:59: error: only constructors take base initializers
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:59: warning: no return statement in function returning non-void
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:61: error: ‘Mat’ is not a class or namespace
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:61: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat(int, int, int)’:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:62: error: only constructors take base initializers
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:65: error: ‘create’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:66: warning: no return statement in function returning non-void
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ‘Mat’ is not a class or namespace
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ISO C++ forbids declaration of ‘Scalar’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: expected ‘,’ or ‘...’ before ‘&’ token
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat(int, int, int, int)’:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:69: error: only constructors take base initializers
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:74: error: ‘create’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:75: error: invalid use of ‘this’ in non-member function
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:75: error: ‘_s’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:77: warning: no return statement in function returning non-void
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘Mat’ is not a class or namespace
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘cv::Mat’ declared as an ‘inline’ variable
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘int cv::Mat’ redeclared as different kind of symbol
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: previous declaration of ‘int cv::Mat(int, int, int, int)’
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘Size’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: expected primary-expression before ‘int’
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘Mat’ is not a class or namespace
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ISO C++ forbids declaration of ‘Mat’ with no type
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘cv::Mat’ declared as an ‘inline’ variable
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘int cv::Mat’ redeclared as different kind of symbol
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: previous declaration of ‘int cv::Mat(int, int, int, int)’
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘Size’ was not declared in this scope
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: expected primary-expression before ‘int’
+    /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: expected primary-expression before ‘const’
+    package/extras/core/sequence.cpp:40: error: expected ‘}’ at end of input
+    error: command 'gcc' failed with exit status 1
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py'; execfile('/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py')" install --single-version-externally-managed --record /tmp/pip-Iik5QM-record/install-record.txt --install-headers /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/lib/include:
+    running install
+
+running build
+
+running build_py
+
+running egg_info
+
+writing requirements to package/pyopencv.egg-info/requires.txt
+
+writing package/pyopencv.egg-info/PKG-INFO
+
+writing top-level names to package/pyopencv.egg-info/top_level.txt
+
+writing dependency_links to package/pyopencv.egg-info/dependency_links.txt
+
+warning: manifest_maker: standard file '-c' not found
+
+reading manifest file 'package/pyopencv.egg-info/SOURCES.txt'
+
+writing manifest file 'package/pyopencv.egg-info/SOURCES.txt'
+
+running build_ext
+
+building 'pyopencv.pyopencv_extras' extension
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.6 -IBoost_INCLUDE_DIR-NOTFOUND -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/core -I/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv -I/usr/lib/python2.6/dist-packages/numpy/core/include/numpy -I/usr/include/python2.6 -c package/extras/core/sequence.cpp -o build/temp.linux-x86_64-2.6/package/extras/core/sequence.o -O3 -DNDEBUG -O3 -ffast-math -DNDEBUG
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+package/extras/core/sequence.cpp:6:35: error: boost/python/handle.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:7:33: error: boost/python/cast.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:8:32: error: boost/python/ptr.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:9:34: error: boost/python/tuple.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:10:48: error: boost/python/detail/raw_pyobject.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:11:36: error: boost/python/extract.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:12:54: error: boost/python/reference_existing_object.hpp: No such file or directory
+
+package/extras/core/sequence.cpp:13:48: error: boost/python/object/life_support.hpp: No such file or directory
+
+In file included from package/extras/core/sequence.cpp:15:
+
+package/extras/core/sequence.hpp:8:29: error: boost/python.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:9:36: error: boost/python/object.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:10:43: error: boost/python/detail/prefix.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:13:33: error: boost/python/str.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:14:51: error: boost/preprocessor/iteration/local.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:15:39: error: boost/preprocessor/cat.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:16:51: error: boost/preprocessor/repetition/enum.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:17:58: error: boost/preprocessor/repetition/enum_params.hpp: No such file or directory
+
+package/extras/core/sequence.hpp:18:65: error: boost/preprocessor/repetition/enum_binary_params.hpp: No such file or directory
+
+In file included from package/extras/core/ndarray.hpp:18,
+
+                 from package/extras/core/sequence.cpp:16:
+
+package/extras/core/opencv_headers.hpp:7:20: error: cxcore.h: No such file or directory
+
+In file included from package/extras/core/sequence.cpp:15:
+
+package/extras/core/sequence.hpp:24: error: ‘boost’ has not been declared
+
+package/extras/core/sequence.hpp:24: error: ‘python’ is not a namespace-name
+
+package/extras/core/sequence.hpp:24: error: expected namespace-name before ‘;’ token
+
+package/extras/core/sequence.hpp:29: error: ‘object’ does not name a type
+
+package/extras/core/sequence.hpp:33: error: ‘object’ does not name a type
+
+package/extras/core/sequence.hpp:43: error: ‘Py_intptr_t’ does not name a type
+
+package/extras/core/sequence.hpp:44: error: ‘Py_intptr_t’ does not name a type
+
+package/extras/core/sequence.hpp:45: error: ‘Py_intptr_t’ was not declared in this scope
+
+package/extras/core/sequence.hpp:45: error: template argument 1 is invalid
+
+package/extras/core/sequence.hpp:45: error: template argument 2 is invalid
+
+package/extras/core/sequence.hpp:46: error: ‘Py_intptr_t’ was not declared in this scope
+
+package/extras/core/sequence.hpp:46: error: template argument 1 is invalid
+
+package/extras/core/sequence.hpp:46: error: template argument 2 is invalid
+
+package/extras/core/sequence.hpp:51: error: ‘sdcpp::check’ declared as an ‘inline’ variable
+
+package/extras/core/sequence.hpp:51: error: template declaration of ‘bool sdcpp::check’
+
+package/extras/core/sequence.hpp:51: error: ‘object’ was not declared in this scope
+
+package/extras/core/sequence.hpp:52: error: expected initializer before ‘const’
+
+package/extras/core/sequence.hpp:57: error: expected ‘)’ before ‘const’
+
+package/extras/core/sequence.hpp:60: error: ISO C++ forbids declaration of ‘object’ with no type
+
+package/extras/core/sequence.hpp:60: error: expected ‘;’ before ‘const’
+
+package/extras/core/sequence.hpp:61: error: expected ‘;’ before ‘sdobject’
+
+package/extras/core/sequence.hpp:70: error: ‘object’ does not name a type
+
+package/extras/core/sequence.hpp: In destructor ‘sdcpp::sdobject::~sdobject()’:
+
+package/extras/core/sequence.hpp:58: error: ‘obj’ was not declared in this scope
+
+package/extras/core/sequence.hpp:58: error: ‘decref’ was not declared in this scope
+
+package/extras/core/sequence.hpp: In member function ‘sdcpp::sdobject& sdcpp::sdobject::operator=(const sdcpp::sdobject&)’:
+
+package/extras/core/sequence.hpp:63: error: ‘const class sdcpp::sdobject’ has no member named ‘obj’
+
+package/extras/core/sequence.hpp:63: error: ‘incref’ was not declared in this scope
+
+package/extras/core/sequence.hpp:64: error: ‘obj’ was not declared in this scope
+
+package/extras/core/sequence.hpp:64: error: ‘decref’ was not declared in this scope
+
+package/extras/core/sequence.hpp:65: error: ‘const class sdcpp::sdobject’ has no member named ‘obj’
+
+package/extras/core/sequence.hpp: At global scope:
+
+package/extras/core/sequence.hpp:76: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+package/extras/core/sequence.hpp:76: error: expected ‘;’ before ‘*’ token
+
+package/extras/core/sequence.hpp:77: error: expected ‘;’ before ‘}’ token
+
+package/extras/core/sequence.hpp: In function ‘void sdcpp::register_sdobject()’:
+
+package/extras/core/sequence.hpp:84: error: local class ‘struct sdcpp::register_sdobject()::from_python’ shall not have static data member ‘void* sdcpp::register_sdobject()::from_python::convertible’
+
+package/extras/core/sequence.hpp:84: error: expected ‘;’ before ‘(’ token
+
+package/extras/core/sequence.hpp:89: error: expected ‘;’ before ‘static’
+
+package/extras/core/sequence.hpp:89: error: ‘PyObject’ has not been declared
+
+package/extras/core/sequence.hpp:89: error: ‘converter’ has not been declared
+
+package/extras/core/sequence.hpp:89: error: expected ‘,’ or ‘...’ before ‘*’ token
+
+package/extras/core/sequence.hpp:98: error: ISO C++ forbids declaration of ‘PyTypeObject’ with no type
+
+package/extras/core/sequence.hpp:98: error: local class ‘struct sdcpp::register_sdobject()::from_python’ shall not have static data member ‘int sdcpp::register_sdobject()::from_python::PyTypeObject’
+
+package/extras/core/sequence.hpp:98: error: expected ‘;’ before ‘const’
+
+package/extras/core/sequence.hpp:102: error: expected ‘;’ before ‘}’ token
+
+package/extras/core/sequence.hpp: In static member function ‘static void sdcpp::register_sdobject()::from_python::construct(int*, int)’:
+
+package/extras/core/sequence.hpp:91: error: ‘converter’ has not been declared
+
+package/extras/core/sequence.hpp:91: error: expected initializer before ‘<’ token
+
+package/extras/core/sequence.hpp:92: error: ‘storage_t’ was not declared in this scope
+
+package/extras/core/sequence.hpp:92: error: ‘the_storage’ was not declared in this scope
+
+package/extras/core/sequence.hpp:92: error: expected type-specifier before ‘storage_t’
+
+package/extras/core/sequence.hpp:92: error: expected ‘>’ before ‘storage_t’
+
+package/extras/core/sequence.hpp:92: error: expected ‘(’ before ‘storage_t’
+
+package/extras/core/sequence.hpp:92: error: expected primary-expression before ‘>’ token
+
+package/extras/core/sequence.hpp:92: error: ‘data’ was not declared in this scope
+
+package/extras/core/sequence.hpp:92: error: expected ‘)’ before ‘;’ token
+
+package/extras/core/sequence.hpp:94: error: there are no arguments to ‘get_borrowed_object’ that depend on a template parameter, so a declaration of ‘get_borrowed_object’ must be available
+
+package/extras/core/sequence.hpp:94: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+
+package/extras/core/sequence.hpp: In function ‘void sdcpp::register_sdobject()’:
+
+package/extras/core/sequence.hpp:104: error: ‘to_python_converter’ was not declared in this scope
+
+package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘,’ token
+
+package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘>’ token
+
+package/extras/core/sequence.hpp:104: error: expected primary-expression before ‘)’ token
+
+package/extras/core/sequence.hpp:106: error: ‘converter’ has not been declared
+
+package/extras/core/sequence.hpp:107: error: ‘type_id’ was not declared in this scope
+
+package/extras/core/sequence.hpp:107: error: expected primary-expression before ‘>’ token
+
+package/extras/core/sequence.hpp:107: error: expected primary-expression before ‘)’ token
+
+package/extras/core/sequence.hpp: At global scope:
+
+package/extras/core/sequence.hpp:113: error: expected ‘)’ before ‘const’
+
+package/extras/core/sequence.hpp:120: error: ‘object’ has not been declared
+
+package/extras/core/sequence.hpp:124: error: expected initializer before ‘<’ token
+
+package/extras/core/sequence.hpp:125: error: expected initializer before ‘const’
+
+In file included from package/extras/core/opencv_headers.hpp:9,
+
+                 from package/extras/core/ndarray.hpp:18,
+
+                 from package/extras/core/sequence.cpp:16:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:58: error: ‘Mat’ has not been declared
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:58: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat()’:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:59: error: only constructors take base initializers
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:59: warning: no return statement in function returning non-void
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:61: error: ‘Mat’ is not a class or namespace
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:61: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat(int, int, int)’:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:62: error: only constructors take base initializers
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:65: error: ‘create’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:66: warning: no return statement in function returning non-void
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ‘Mat’ is not a class or namespace
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ISO C++ forbids declaration of ‘Scalar’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: expected ‘,’ or ‘...’ before ‘&’ token
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: In function ‘int cv::Mat(int, int, int, int)’:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:69: error: only constructors take base initializers
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:74: error: ‘create’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:75: error: invalid use of ‘this’ in non-member function
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:75: error: ‘_s’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:77: warning: no return statement in function returning non-void
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp: At global scope:
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘Mat’ is not a class or namespace
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘cv::Mat’ declared as an ‘inline’ variable
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘int cv::Mat’ redeclared as different kind of symbol
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: previous declaration of ‘int cv::Mat(int, int, int, int)’
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: ‘Size’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:79: error: expected primary-expression before ‘int’
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘Mat’ is not a class or namespace
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ISO C++ forbids declaration of ‘Mat’ with no type
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘cv::Mat’ declared as an ‘inline’ variable
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘int cv::Mat’ redeclared as different kind of symbol
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:68: error: previous declaration of ‘int cv::Mat(int, int, int, int)’
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: ‘Size’ was not declared in this scope
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: expected primary-expression before ‘int’
+
+/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/package/extras/sdopencv/sdcxmat.hpp:87: error: expected primary-expression before ‘const’
+
+package/extras/core/sequence.cpp:40: error: expected ‘}’ at end of input
+
+error: command 'gcc' failed with exit status 1
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py'; execfile('/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py')" install --single-version-externally-managed --record /tmp/pip-Iik5QM-record/install-record.txt --install-headers /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py'; execfile('/home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/build/pyopencv/setup.py')" install --single-version-externally-managed --record /tmp/pip-Iik5QM-record/install-record.txt --install-headers /home/cbassuser/avnOpticalPointing/OpenCV/opencv-2.4.11/lib/include failed with error code 1
