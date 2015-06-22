@@ -7,6 +7,7 @@ import cv2 #for ubuntu 12.04 install see: http://karytech.blogspot.com/2012/05/o
 import cv
 import numpy as np
 import time
+import datetime
 import sys, optparse
 import pdb
 import matplotlib.pylab as plt
@@ -18,19 +19,20 @@ CAMERA_DEVICE_INDEX=0
 
 cam0t=cv2.VideoCapture(CAMERA_DEVICE_INDEX)
 #set up v4l2 to the correct input on the frame grabber
-os.system("v4l2-ctl -d /dev/video0 -i 0 --set-fmt-video=width=768,height=480")
-time.sleep(1)
+#os.system("v4l2-ctl -d /dev/video0 -i 0 --set-fmt-video=width=768,height=480")
+#time.sleep(1)
 os.system("v4l2-ctl -d /dev/video0 -i 1 --set-fmt-video=width=768,height=480")
-time.sleep(1)
+#time.sleep(1)
 #and set up the correct width
 width =768
 height = 480
 cam0t.set(3,width)
 cam0t.set(4,height)
 #read in the image from the frame grabber
+filename=datetime.datetime.utcnow().strftime("%Y-%m-%d-%H%M%S")
 ret,frame = cam0t.read()
+cv2.imwrite(filename+'.png',frame)
 cam0t.release()
 cv2.imshow("Test",frame)
-cv2.imwrite('file.png',frame)
 print frame
 cv2.waitKey(0)
