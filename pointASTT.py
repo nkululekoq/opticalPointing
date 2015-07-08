@@ -155,7 +155,7 @@ def trackSource(tn,latitude,longitude,starCoordinates,trackTime,rotation,filenam
 	while(deltaTime <trackTime and observable==1): 
 		deltaTime = time.time()-startTime
 		a= calculatePosition(latitude,longitude,-5,starCoordinates['RA'],starCoordinates['DEC'],ephem.B1950)
-		azCommand = float(np.rad2deg(a['AZ']))+90.
+		azCommand = float(np.rad2deg(a['AZ']))+rotation
 		if(azCommand>360):
 			azCommand = azCommand -360
 		elCommand = float(np.rad2deg(a['EL']))
